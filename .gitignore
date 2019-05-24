@@ -1,3 +1,7 @@
+
+*.json
 *.jpg
+*.jpeg
+*.png
 env/
 resources/
